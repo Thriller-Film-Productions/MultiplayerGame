@@ -1,0 +1,8 @@
+{
+  "name": "MultiplayerGame",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Thriller-Film-Productions/MultiplayerGame.git",
+  "author": "drcrotato <31459944+drcrotato@users.noreply.github.com>",
+  "license": "MIT"
+}
